@@ -5,9 +5,13 @@ The dashboard provides actionable insights for improving product focus, regional
 Key Objectives
 
 1)To monitor company-wide sales performance through interactive KPIs and charts.
+
 2)To identify top-performing products and sales representatives.
+
 3)To analyze year-wise and region-wise sales trends.
+
 4)To compare sales performance across different months, years, and regions.
+
 5)To identify low-performing products for strategic improvement.
 
 some Questions which are solved in this project
