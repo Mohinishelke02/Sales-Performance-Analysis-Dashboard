@@ -3,6 +3,7 @@ This project visualizes the overall sales performance of a company across differ
 The dashboard provides actionable insights for improving product focus, regional strategy, and sales rep performance.
 
 Key Objectives
+
 1)To monitor company-wide sales performance through interactive KPIs and charts.
 2)To identify top-performing products and sales representatives.
 3)To analyze year-wise and region-wise sales trends.
@@ -10,6 +11,7 @@ Key Objectives
 5)To identify low-performing products for strategic improvement.
 
 some Questions which are solved in this project
+
 1)Which sales representatives generated the highest sales?	
 2)Which are the top 5 products based on total sales value?	
 3)How did the sales vary year-wise?
